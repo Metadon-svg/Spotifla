@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MCDMessenger" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="android:statusBarColor">@color/panel</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>
